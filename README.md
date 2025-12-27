@@ -34,3 +34,4 @@ Finally, the strategy defines SEO performance metrics (KPIs) such as organic tra
 Overall, this SEO strategy demonstrates my understanding of basic and technical SEO concepts, keyword research, content optimization, and website performance improvement. It reflects a practical approach to building sustainable organic growth for CarsFusion and serves as a complete and beginner-friendly SEO plan suitable for real-world application.
 
 ## OUTPUT
+[Internship Task 3.docx](https://github.com/user-attachments/files/24354217/Internship.Task.3.docx)
